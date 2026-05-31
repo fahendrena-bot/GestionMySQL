@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\projetDB\\GestionMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0A7DC7-ACC4-4DB5-CA01-4F264ABA399C}|GestionMySQL\\GestionMySQL.csproj|c:\\users\\dell\\documents\\projetdb\\gestionmysql\\gestionmysql\\forms\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B0A7DC7-ACC4-4DB5-CA01-4F264ABA399C}|GestionMySQL\\GestionMySQL.csproj|solutionrelative:gestionmysql\\forms\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAccueil.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\projetDB\\GestionMySQL\\GestionMySQL\\Forms\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "GestionMySQL\\Forms\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\projetDB\\GestionMySQL\\GestionMySQL\\Forms\\FrmAccueil.cs [Conception]",
+              "RelativeToolTip": "GestionMySQL\\Forms\\FrmAccueil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:45:59.06Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
